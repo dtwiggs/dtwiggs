@@ -10,5 +10,7 @@ Java / Scala / C# / Unity / Compiler Design
 ## Projects:
 [FPP + Proteus](https://github.com/AlbertoSantana0/ProteusFPP)
 
+Software developer creating a unified compiler integrating the FPP and Proteus modeling languages, in charge of creating the tokenizer and code generator. FPP is a modeling language designed for NASA Jet Propulsion Laboratory's F Prime flight software framework, while Proteus is a programming language for actor-based hierarchical state machines. Our work combines the strengths of both languages, enabling seamless integration and efficient compilation for complex aerospace software systems. This integration enhances system reliability, streamlines development workflows, and facilitates the creation of robust and scalable software for space applications.
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dtwiggs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dalton-wiggins-70b070159/)  
 
