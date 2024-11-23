@@ -10,10 +10,10 @@ Java / Python / TypeScript / C# / Git / PostreSQL / Node.js / Docker / Unity / S
 ## Projects:
 [FPP + Proteus](https://github.com/AlbertoSantana0/ProteusFPP)
 
-    - Developed a compiler integrating JPL’s FPP flight software modeling language and the hierarchical 
+- Developed a compiler integrating JPL’s FPP flight software modeling language and the hierarchical 
       state machines focused Proteus language, facilitating seamless interaction between the two.
-    - Enabled efficient compilation and streamlined workflows for complex aerospace software systems.
-    - Supported the creation of robust and scalable software for NASA JPL’s aerospace applications.
+- Enabled efficient compilation and streamlined workflows for complex aerospace software systems.
+- Supported the creation of robust and scalable software for NASA JPL’s aerospace applications.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dtwiggs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dalton-wiggins-70b070159/)  
 
